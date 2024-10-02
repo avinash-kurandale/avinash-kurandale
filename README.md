@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avinash-kurandale
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning cpp programming language
-- 💞️ I’m looking to collaborate on cpp projects
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https:linkedin.com/in/avinash-kurandale-73ab16256
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:📘 Currently mastering three programming languages simultaneously because variety is the spice of coding life.
